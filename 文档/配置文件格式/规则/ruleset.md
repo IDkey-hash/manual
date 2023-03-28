@@ -27,6 +27,7 @@ RULE-SET,https://ruleset.com/cn,ProxyVMess
 ```ini
 DOMAIN,www.apple.com
 DOMAIN,www.google.com
+DOMAIN,www.bing.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-KEYWORD,google
 IP-CIDR,192.168.0.0/16
